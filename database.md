@@ -24,3 +24,4 @@
 - Carburante                        VARCHAR(30)         NOTNULL  INDEX
 - Cambio                            VARCHAR(30)         NOTNULL  INDEX
 - N. di porte                       TINYINT             NULL
+- Foto                              VARCHAR(255)        NULL
