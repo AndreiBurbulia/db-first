@@ -1,6 +1,7 @@
 # Database
 
 ## Struttura
+## table name: cars
 
 - Id                                BIGINT              PRIMARY KEY UNIQUE NOTNULL 
 - Marca                             VARCHAR(30)         NOTNULL  INDEX
